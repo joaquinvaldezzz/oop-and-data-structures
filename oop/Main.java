@@ -1,3 +1,5 @@
+package oop;
+
 /**
  * Represents a basic user.
  */
